@@ -1,3 +1,12 @@
 .portrait {
     border-radius: 50%;
 }
+
+.centered-row {
+    justify-content: space-between;
+}
+
+.profile {
+    display: flex;
+    justify-content: flex-end;
+}
