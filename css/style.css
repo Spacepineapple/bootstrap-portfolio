@@ -13,7 +13,7 @@
 
 .skill-icon {
     max-height: 10vh;
-    width: auto;
+    width: 10vh;
     filter: invert(42%) sepia(91%) saturate(1911%) hue-rotate(151deg) brightness(98%) contrast(101%);
 }
 
@@ -40,4 +40,11 @@ footer h2{
     align-items: center;
     justify-content: center;
     border-style: none;
+}
+
+.skill-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
