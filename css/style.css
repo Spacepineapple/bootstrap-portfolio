@@ -59,3 +59,15 @@ footer h2{
 .skill-body {
     text-align: center;
 }
+
+h1, h2 {
+    font-family: "Helvetica", "Roboto", sans-serif;
+}
+
+p, li{
+    font-family: "Open Sans", "Roboto", sans-serif;
+}
+
+li {
+    list-style: none;
+}
