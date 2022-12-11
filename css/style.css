@@ -33,3 +33,11 @@ footer h2{
     height: 1rem;
     width: 1rem;
 }
+
+.contact-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-style: none;
+}
