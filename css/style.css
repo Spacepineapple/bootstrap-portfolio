@@ -47,4 +47,15 @@ footer h2{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    border-style: none;
+}
+
+.skills-row {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.skill-body {
+    text-align: center;
 }
