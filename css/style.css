@@ -102,3 +102,7 @@ li {
     text-decoration: none;
     color: var(--secondary-colour);
 }
+
+h3 {
+    font-size: 1.5rem;
+}
