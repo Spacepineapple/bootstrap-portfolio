@@ -1,3 +1,13 @@
+:root {
+
+    --primary-colour: #222831;
+    --secondary-colour: #393E46;
+    --tertiary-colour: #00ADB5;
+    --quarternary-colour: #EEEEEE;
+    --text-colour: #99FFFF;
+    --heading-colour: #BBE1FA;
+}
+
 .portrait {
     border-radius: 50%;
 }
