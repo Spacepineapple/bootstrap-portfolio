@@ -33,6 +33,7 @@ footer {
 
 footer h2{
     color: var(--quarternary-colour);
+    font-size: 1.5rem;
 }
 
 .contact-icon {
@@ -64,6 +65,10 @@ footer h2{
     align-items: center;
 }
 
+.skill-title {
+    font-weight: bold;
+}
+
 .skill-body {
     text-align: center;
 }
@@ -89,6 +94,10 @@ li {
 .section-heading {
     display: flex;
     justify-content: center;
+}
+
+h2 {
+    font-weight: bold;
 }
 
 .project-image {
