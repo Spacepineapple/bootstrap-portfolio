@@ -1,5 +1,4 @@
 :root {
-
     --primary-colour: #222831;
     --secondary-colour: #393E46;
     --tertiary-colour: #00ADB5;
@@ -28,14 +27,14 @@
 }
 
 footer {
-    background-color: black;
+    background-color: var(--primary-colour);
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 footer h2{
-    color: white;
+    color: var(--quarternary-colour);
 }
 
 .contact-icon {
@@ -72,10 +71,12 @@ footer h2{
 
 h1, h2 {
     font-family: "Helvetica", "Roboto", sans-serif;
+    color: var(--secondary-colour);
 }
 
 p, li{
     font-family: "Open Sans", "Roboto", sans-serif;
+    color: var(--secondary-colour);
 }
 
 li {
@@ -97,5 +98,5 @@ li {
 
 .contact-link {
     text-decoration: none;
-    color: black;
+    color: var(--secondary-colour);
 }
