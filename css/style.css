@@ -84,3 +84,8 @@ li {
 .main-section {
     margin-top: 15vh;
 }
+
+.contact-link {
+    text-decoration: none;
+    color: black;
+}
