@@ -71,3 +71,8 @@ p, li{
 li {
     list-style: none;
 }
+
+.section-heading {
+    display: flex;
+    justify-content: center;
+}
