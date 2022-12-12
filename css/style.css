@@ -55,6 +55,7 @@ footer h2{
     justify-content: center;
     align-items: center;
     border-style: none;
+    height: 20vh;
 }
 
 .skills-row {
@@ -106,3 +107,4 @@ li {
 h3 {
     font-size: 1.5rem;
 }
+
